@@ -8,6 +8,22 @@
   </div>
 </template>
 
-<style lang="scss" scoped>
+<style lang="scss">
+  @import url('https://fonts.googleapis.com/css?family=Varela+Round&display=swap');
 
+  * {
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  body {
+    font-family: 'Varela Round', sans-serif;
+    padding: 0;
+    margin: 0;
+  }
+
+  .nav {
+    display: none;
+  }
 </style>
