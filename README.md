@@ -4,6 +4,8 @@ Project created following the Vue tutorial from [helloroman youtube channel](htt
 
 This app uses NASA image API to fetch images and display them after passimg search query.
 
+Deployment on Netlify: https://lucid-mclean-500161.netlify.com/#/
+
 ## Project setup
 ```
 yarn install
