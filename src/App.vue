@@ -24,6 +24,11 @@
   }
 
   .nav {
-    display: none;
+    font-size: 30px;
+
+   a {
+      margin-right: 15px;
+      color: grey;
+    }
   }
 </style>
