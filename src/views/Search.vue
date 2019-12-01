@@ -72,7 +72,7 @@ export default {
           this.loading = false;
           this.step = 1;
         })
-        .catch(error => console.error(error));
+        .catch(error => alert(error));
     }, 500),
   },
 };
